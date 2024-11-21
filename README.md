@@ -28,6 +28,7 @@
 Стек: pandas, numpy, seaborn, matplotlib.
 * [Ученики с годовых курсов ЕГЭ](https://github.com/anastasiia-umnova/Students-from-courses): проект направлен на анализ данных образовательной IT-платформы подготовки к экзаменам в РФ. В работе изучено поведение учеников. Для этого из базы данных с использованием SQL-запроса выбрана информация по ученикам с годовых курсов ЕГЭ. Выявлены наиболее популярные предметы, города с наибольшим количеством учащихся и среднее количество выбранных учениками предметов.
 Стек: SQL, pandas, numpy, seaborn, matplotlib.
+* [Дашборд для визуализации ключевых процессов в Tableau](https://public.tableau.com/views/Profitmonthlyanalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Подключение к базе данных, построение графиков по данным, верстка дашборда. Стек: Tableau.
 
   
 ## Контакты:
