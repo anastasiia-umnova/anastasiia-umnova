@@ -24,9 +24,6 @@
   Стек: Tableau.
 
   
-## Контакты:
-
-📫 Вы можете связаться со мной в Telegram: [@anastasiia_umnova](https://t.me/anastasiia_umnova) или Email: [anastasiiachaa@yandex.ru](mailto:anastasiiachaa@yandex.ru)
 
 <!--
 **anastasiia-umnova/anastasiia-umnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
