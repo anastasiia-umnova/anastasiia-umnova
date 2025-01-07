@@ -25,7 +25,6 @@
 
   
 ## Контакты:
-⚡ Если у вас есть предложение о работе, посмотрите мое [CV](https://hh.ru/applicant/resumes/view?resume=31edaf23ff0dfd193f0039ed1f58324b7a6546)
 
 📫 Вы можете связаться со мной в Telegram: [@anastasiia_umnova](https://t.me/anastasiia_umnova) или Email: [anastasiiachaa@yandex.ru](mailto:anastasiiachaa@yandex.ru)
 
